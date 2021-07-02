@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @VGR6479
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning at BINUS University (Bachelor in Cyber Security)
+- 📫 Reach me at www.linkedin.com/in/billysudarsono
 
-<!---
-VGR6479/VGR6479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

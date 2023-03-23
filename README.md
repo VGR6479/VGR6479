@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VGR6479
-- 👀 I’m interested in Cyber Security
+- 👀 Learning and Contributing in Cyber Security Field
 - 📫 Connect with me at www.linkedin.com/in/billysudarsono
